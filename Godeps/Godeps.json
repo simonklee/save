@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/simonz05/save",
+	"GoVersion": "go1.2.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/simonz05/save",
+			"Rev": "ed1d55c94e08f6cda2daff45878995d873f4b22e"
+		}
+	]
+}
